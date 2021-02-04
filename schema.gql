@@ -1,0 +1,151 @@
+
+/** ------------------------------------------------------
+ * THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+ * -------------------------------------------------------
+ */
+
+/* tslint:disable */
+/* eslint-disable */
+export interface AssetType {
+    accessToken?: string;
+    Fields?: FieldInput[];
+    product_name?: string;
+    doc?: DocumentInput[];
+    lat?: number;
+    long?: number;
+    asset_image?: DocumentInput;
+}
+
+export interface FieldInput {
+    label?: string;
+    value?: string;
+}
+
+export interface DocumentInput {
+    doc_path?: string;
+    type?: string;
+    filename?: string;
+    label?: string;
+    value?: string;
+    s3AccessToken?: string;
+    base64ImageString?: string;
+}
+
+export interface SearchProductInput {
+    accessToken?: string;
+    asset_image?: DocumentInput;
+    lat?: number;
+    long?: number;
+}
+
+export interface DocUploadInput {
+    accessToken?: string;
+    productId?: string;
+    document?: DocumentInput[];
+}
+
+export interface UserUpdateInput {
+    accessToken?: string;
+    FirstName?: string;
+    LastName?: string;
+    phoneNumber?: number;
+    email_id?: string;
+    facebook_id?: string;
+}
+
+export interface SignInInput {
+    key: string;
+    type: string;
+}
+
+export interface LogoutInput {
+    accessToken?: string;
+}
+
+export interface PhoneVerify {
+    phoneNumber: string;
+    otpCode?: number;
+}
+
+export interface ProductType {
+    productId?: string;
+    Fields?: FieldOutput[];
+    product_name?: string;
+    doc?: DocumentOutput[];
+    lat?: number;
+    long?: number;
+    location?: LocationType;
+    asset_image?: DocumentOutput;
+    object_identifier?: ObjectIdentifierType[];
+    text_value_vision?: undefined[];
+}
+
+export interface LocationType {
+    type?: string;
+    coordinates?: number[];
+}
+
+export interface FieldOutput {
+    label?: string;
+    value?: string;
+}
+
+export interface DocumentOutput {
+    doc_path?: string;
+    type?: string;
+    filename?: string;
+    label?: string;
+    value?: string;
+    s3AccessToken?: string;
+}
+
+export interface SearchOutput {
+    image_url?: string;
+    object_identifier?: ObjectIdentifierType[];
+    text_value_vision?: string[];
+    related_products?: ProductType[];
+}
+
+export interface KeyType {
+    AWS_S3_BUCKET_NAME?: string;
+    accessKeyId?: string;
+    secretAccessKey?: string;
+    signatureVersion?: string;
+    region?: string;
+}
+
+export interface ObjectIdentifierType {
+    name?: string;
+    confidence?: string;
+}
+
+export interface IMutation {
+    addAsset(input?: AssetType): ProductType | Promise<ProductType>;
+    assets(input?: string): ProductType[] | Promise<ProductType[]>;
+    searchProduct(input?: SearchProductInput): SearchOutput | Promise<SearchOutput>;
+    documentUpload(input?: DocUploadInput): ProductType | Promise<ProductType>;
+    login(input: SignInInput): UserInfo | Promise<UserInfo>;
+    verifyOTP(input?: PhoneVerify): UserInfo | Promise<UserInfo>;
+    updateUser(input?: UserUpdateInput): UserType | Promise<UserType>;
+    logout(input?: LogoutInput): string | Promise<string>;
+}
+
+export interface IQuery {
+    accessKey(): KeyType | Promise<KeyType>;
+    users(): UserType[] | Promise<UserType[]>;
+}
+
+export interface UserType {
+    id: string;
+    FirstName?: string;
+    LastName?: string;
+    phoneNumber?: number;
+    email_id?: string;
+    facebook_id?: string;
+    latest_phone_otp?: number;
+}
+
+export interface UserInfo {
+    token?: string;
+    isOTPSend?: boolean;
+}

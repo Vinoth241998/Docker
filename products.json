@@ -1,0 +1,442 @@
+[{
+  "_id": {
+    "$oid": "6001a50b0991be41bcb56a67"
+  },
+  "image_identifier": [],
+  "text_value_vision": [
+    [
+      "logitech\n"
+    ]
+  ],
+  "Fields": [
+    {
+      "_id": {
+        "$oid": "6001a50b0991be41bcb56a68"
+      },
+      "label": "l1",
+      "value": "v1"
+    }
+  ],
+  "object_identifier": [
+    {
+      "_id": {
+        "$oid": "6001a50d0991be41bcb56a6c"
+      },
+      "name": "Mouse",
+      "confidence": "0.962763786315918"
+    }
+  ],
+  "userId": "5ff71e287d5b783de8fd1601",
+  "product_name": "laptop",
+  "lat": 10.254,
+  "long": 25.25565436,
+  "location": {
+    "coordinates": [
+      25.25565436,
+      10.254
+    ],
+    "_id": {
+      "$oid": "6001a50b0991be41bcb56a6a"
+    },
+    "type": "Point"
+  },
+  "asset_image": {
+    "_id": {
+      "$oid": "6001a50b0991be41bcb56a6b"
+    },
+    "doc_path": "Files/Search/1610532838144.png",
+    "type": "image",
+    "filename": "/text.jpg"
+  },
+  "__v": 0,
+  "doc": [
+    {
+      "_id": {
+        "$oid": "6001a50b0991be41bcb56a69"
+      },
+      "doc_path": "Files/Search/1610532838144.png",
+      "type": "myDoc",
+      "filename": "file1",
+      "label": "label1",
+      "value": "value1"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6001ac6b30382745d486e1fd"
+  },
+  "image_identifier": [],
+  "text_value_vision": [
+    [
+      "logitech\n"
+    ]
+  ],
+  "Fields": [
+    {
+      "_id": {
+        "$oid": "6001ac6b30382745d486e1fe"
+      },
+      "label": "l1",
+      "value": "v1"
+    }
+  ],
+  "doc": [
+    {
+      "_id": {
+        "$oid": "6001ac6b30382745d486e1ff"
+      },
+      "doc_path": "Files/Search/1610532838144.png",
+      "type": "myDoc",
+      "filename": "file1",
+      "label": "label1",
+      "value": "value1"
+    }
+  ],
+  "object_identifier": [
+    {
+      "_id": {
+        "$oid": "6001ac7030382745d486e202"
+      },
+      "name": "Mouse",
+      "confidence": "0.962763786315918"
+    }
+  ],
+  "userId": "5ff71e287d5b783de8fd1601",
+  "product_name": "laptop",
+  "lat": 10.254,
+  "long": 25.25565436,
+  "location": {
+    "coordinates": [
+      25.25565436,
+      10.254
+    ],
+    "_id": {
+      "$oid": "6001ac6b30382745d486e200"
+    },
+    "type": "Point"
+  },
+  "asset_image": {
+    "_id": {
+      "$oid": "6001ac6b30382745d486e201"
+    },
+    "doc_path": "Files/Search/1610532838144.png",
+    "type": "image",
+    "filename": "/text.jpg"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6001acca30382745d486e20d"
+  },
+  "image_identifier": [],
+  "text_value_vision": [
+    [
+      "logitech\n"
+    ]
+  ],
+  "Fields": [
+    {
+      "_id": {
+        "$oid": "6001acca30382745d486e20e"
+      },
+      "label": "l1",
+      "value": "v1"
+    }
+  ],
+  "doc": [
+    {
+      "_id": {
+        "$oid": "6001acca30382745d486e20f"
+      },
+      "doc_path": "Files/Search/1610532838144.png",
+      "type": "myDoc",
+      "filename": "file1",
+      "label": "label1",
+      "value": "value1"
+    }
+  ],
+  "object_identifier": [
+    {
+      "_id": {
+        "$oid": "6001accb30382745d486e212"
+      },
+      "name": "Mouse",
+      "confidence": "0.962763786315918"
+    }
+  ],
+  "userId": "5ff71e287d5b783de8fd1601",
+  "product_name": "laptop",
+  "lat": 10.254,
+  "long": 25.25565436,
+  "location": {
+    "coordinates": [
+      25.25565436,
+      10.254
+    ],
+    "_id": {
+      "$oid": "6001acca30382745d486e210"
+    },
+    "type": "Point"
+  },
+  "asset_image": {
+    "_id": {
+      "$oid": "6001acca30382745d486e211"
+    },
+    "doc_path": "Files/Search/1610532838144.png",
+    "type": "image",
+    "filename": "/text.jpg"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6006aec0101df94c141c6c73"
+  },
+  "image_identifier": [],
+  "text_value_vision": [
+    [
+      "logitech\n"
+    ]
+  ],
+  "Fields": [
+    {
+      "_id": {
+        "$oid": "6006aec0101df94c141c6c74"
+      },
+      "label": "l1",
+      "value": "v1"
+    }
+  ],
+  "doc": [
+    {
+      "_id": {
+        "$oid": "6006aec0101df94c141c6c75"
+      },
+      "doc_path": "Files/Search/1610532838144.png",
+      "type": "myDoc",
+      "filename": "file1",
+      "label": "label1",
+      "value": "value1"
+    }
+  ],
+  "object_identifier": [
+    {
+      "_id": {
+        "$oid": "6006aec2101df94c141c6c78"
+      },
+      "name": "Mouse",
+      "confidence": "0.962763786315918"
+    }
+  ],
+  "userId": "5ff71e287d5b783de8fd1601",
+  "product_name": "laptop",
+  "lat": 10.254,
+  "long": 25.25565436,
+  "location": {
+    "coordinates": [
+      25.25565436,
+      10.254
+    ],
+    "_id": {
+      "$oid": "6006aec0101df94c141c6c76"
+    },
+    "type": "Point"
+  },
+  "asset_image": {
+    "_id": {
+      "$oid": "6006aec0101df94c141c6c77"
+    },
+    "doc_path": "Files/Search/1610532838144.png",
+    "type": "image",
+    "filename": "/text.jpg"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60097b750af1613a9ce0398e"
+  },
+  "image_identifier": [],
+  "text_value_vision": [
+    [
+      "logitech\n"
+    ]
+  ],
+  "Fields": [
+    {
+      "_id": {
+        "$oid": "60097b750af1613a9ce0398f"
+      },
+      "label": "l1",
+      "value": "v1"
+    }
+  ],
+  "doc": [
+    {
+      "_id": {
+        "$oid": "60097b750af1613a9ce03990"
+      },
+      "doc_path": "Files/Search/1610532838144.png",
+      "type": "myDoc",
+      "filename": "file1",
+      "label": "label1",
+      "value": "value1"
+    }
+  ],
+  "object_identifier": [
+    {
+      "_id": {
+        "$oid": "60097b770af1613a9ce03993"
+      },
+      "name": "Mouse",
+      "confidence": "0.962763786315918"
+    }
+  ],
+  "userId": "600979860af1613a9ce0398d",
+  "product_name": "laptop",
+  "lat": 10.254,
+  "long": 25.25565436,
+  "location": {
+    "coordinates": [
+      25.25565436,
+      10.254
+    ],
+    "_id": {
+      "$oid": "60097b750af1613a9ce03991"
+    },
+    "type": "Point"
+  },
+  "asset_image": {
+    "_id": {
+      "$oid": "60097b750af1613a9ce03992"
+    },
+    "doc_path": "Files/Search/1610532838144.png",
+    "type": "image",
+    "filename": "/text.jpg"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60097b8d0af1613a9ce03998"
+  },
+  "image_identifier": [],
+  "text_value_vision": [
+    [
+      "logitech\n"
+    ]
+  ],
+  "Fields": [
+    {
+      "_id": {
+        "$oid": "60097b8d0af1613a9ce03999"
+      },
+      "label": "l1",
+      "value": "v1"
+    }
+  ],
+  "doc": [
+    {
+      "_id": {
+        "$oid": "60097b8d0af1613a9ce0399a"
+      },
+      "doc_path": "Files/Search/1610532838144.png",
+      "type": "myDoc",
+      "filename": "file1",
+      "label": "label1",
+      "value": "value1"
+    }
+  ],
+  "object_identifier": [
+    {
+      "_id": {
+        "$oid": "60097b8e0af1613a9ce0399d"
+      },
+      "name": "Mouse",
+      "confidence": "0.962763786315918"
+    }
+  ],
+  "userId": "600979860af1613a9ce0398d",
+  "product_name": "mouse",
+  "lat": 10.254,
+  "long": 25.25565436,
+  "location": {
+    "coordinates": [
+      25.25565436,
+      10.254
+    ],
+    "_id": {
+      "$oid": "60097b8d0af1613a9ce0399b"
+    },
+    "type": "Point"
+  },
+  "asset_image": {
+    "_id": {
+      "$oid": "60097b8d0af1613a9ce0399c"
+    },
+    "doc_path": "Files/Search/1610532838144.png",
+    "type": "image",
+    "filename": "/text.jpg"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60128e8bc84dfb31c4849ebb"
+  },
+  "image_identifier": [],
+  "text_value_vision": [
+    [
+      "logitech\n"
+    ]
+  ],
+  "Fields": [
+    {
+      "_id": {
+        "$oid": "60128e8bc84dfb31c4849ebc"
+      },
+      "label": "l1",
+      "value": "v1"
+    }
+  ],
+  "doc": [
+    {
+      "_id": {
+        "$oid": "60128e8bc84dfb31c4849ebd"
+      },
+      "doc_path": "Files/Search/1610532838144.png",
+      "type": "myDoc",
+      "filename": "file1",
+      "label": "label1",
+      "value": "value1"
+    }
+  ],
+  "object_identifier": [
+    {
+      "_id": {
+        "$oid": "60128e90c84dfb31c4849ec0"
+      },
+      "name": "Mouse",
+      "confidence": "0.962763786315918"
+    }
+  ],
+  "userId": "60128b2ccff91a47d0e25a43",
+  "product_name": "mouse",
+  "lat": 10.254,
+  "long": 25.25565436,
+  "location": {
+    "coordinates": [
+      25.25565436,
+      10.254
+    ],
+    "_id": {
+      "$oid": "60128e8bc84dfb31c4849ebe"
+    },
+    "type": "Point"
+  },
+  "asset_image": {
+    "_id": {
+      "$oid": "60128e8bc84dfb31c4849ebf"
+    },
+    "doc_path": "Files/Search/1610532838144.png",
+    "type": "image",
+    "filename": "/text.jpg"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "6012494dcf67000848e9551e"
+  },
+  "google_id": "saiswarupa.123@gmail.com",
+  "__v": 0,
+  "user_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2MDEyNDk0ZGNmNjcwMDA4NDhlOTU1MWUiLCJpYXQiOjE2MTE4MTExNDksImV4cCI6MTY0NzgxMTE0OX0.B9Pt_M0p2ytTVuZrmFKyEwaFTkEKz6ByA7Z4_YRilrA"
+},{
+  "_id": {
+    "$oid": "60128814cf67000848e9551f"
+  },
+  "google_id": "saiswarupa@gmail.com",
+  "__v": 0,
+  "user_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2MDEyODgxNGNmNjcwMDA4NDhlOTU1MWYiLCJpYXQiOjE2MTE4MjcyMjAsImV4cCI6MTY0NzgyNzIyMH0.IpCizveQqcWpBEUdljOxT8fEc4X5cVkhWY45anb61pw"
+},{
+  "_id": {
+    "$oid": "60128b2ccff91a47d0e25a43"
+  },
+  "google_id": "saiswarupa123abc@gmail.com",
+  "__v": 0,
+  "user_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2MDEyOGIyY2NmZjkxYTQ3ZDBlMjVhNDMiLCJpYXQiOjE2MTE4Mjg3MjQsImV4cCI6MTY0NzgyODcyNH0.6Uqydl4VI0q7FKgdyp5Ek_BrWo8PNlf9O5X1-2bsxwg"
+}]
